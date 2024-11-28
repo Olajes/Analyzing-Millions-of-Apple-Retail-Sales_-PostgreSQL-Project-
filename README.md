@@ -137,7 +137,4 @@ This project is an excellent addition to your portfolio and will demonstrate you
 
 ---
 
-## How to Run the Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/apple-retail-sales-analysis.git
+
