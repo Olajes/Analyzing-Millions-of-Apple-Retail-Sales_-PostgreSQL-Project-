@@ -13,7 +13,7 @@ By tackling a variety of questions, from basic to complex, this project demonstr
 ---
 ## Entity Relationship Diagram (ERD)
 
-![ERD Diagram](./images/C:\Users\user\Desktop\STEVE HTML\PROJECT CATALOG/ERD DIAGRAM FOR APPLE_SALES_PROJECT.JPG)
+![ERD Diagram](C:\Users\user\Desktop\STEVE HTML\PROJECT CATALOG/ERD DIAGRAM FOR APPLE_SALES_PROJECT.JPG)
 
 ---
 ## Dataset Schema  
