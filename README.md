@@ -12,7 +12,7 @@ By tackling a variety of questions, from basic to complex, this project demonstr
 
 ---
 ## Entity Relationship Diagram (ERD)
-
+![image alt](https://github.com/Olajes/Analyzing-Millions-of-Apple-Retail-Sales_-PostgreSQL-Project-/blob/df1a9101d76d452f501ddff3a0e57d220c81c69d/ERD%20DIAGRAM%20FOR%20APPLE_SALES_PROJECT.JPG)
 
 
 ---
